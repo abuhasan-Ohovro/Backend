@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "First backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Backend",
+    "Sigma",
+    "Project"
+  ],
+  "author": "ABU HASAN MONDAL (OHOVRO)",
+  "license": "ISC"
+}
